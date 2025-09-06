@@ -40,12 +40,6 @@
 - **Manual Testing & Test Case Writing**  
 - **Jira & Postman** → QA tools basics  
 
-## 🎯 Future Goals
-- **Advanced Test Automation** → Selenium, Playwright  
-- **API Testing & SQL** → Learn to validate backend data  
-- **Backend Development** → Java & Spring basics  
-
----
 
 ## 📫 Connect with Me  
 
@@ -55,14 +49,6 @@
   </a>
 </p>  
 
----
-
-## 📊 GitHub Stats  
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_title=true" width="48%" />
-</p>
 
 ---
 
