@@ -1,15 +1,15 @@
 # Hi there, I'm Wadha Al-Garni! 👋  
 
 🎓 **Software Engineering Graduate** from the *University of Jeddah*  
-💻 Passionate about **Software Engineering, Software Testing, and Continuous Growth**  
-🌱 Currently building my skills aligned with **market demands** and modern technologies  
-🇸🇦 Dedicated to leveraging technology to support the **digital transformation** of my country  
+💻 Passionate about **Software Engineering, Software Testing, and Continuous Learning**  
+🌱 Currently developing my skills to meet **market demands** and modern technologies  
+🇸🇦 Eager to leverage technology to contribute to the **digital growth of my country**  
 
 ---
 
-## 🛠️ My Skills
+## 🛠️ Current Skills  
 
-### 💻 Web Development
+### 🌐 Web Development
 <p>
   <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
@@ -30,12 +30,24 @@
 <p>
   <img src="https://img.shields.io/badge/Git-FF2C1F?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-207245?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Connect with Me  
+## 🌱 Currently Learning
+- **Java** → Core concepts & OOP  
+- **JavaScript** → Strengthening foundations for web & automation  
+- **Manual Testing & Test Case Writing**  
+- **Jira & Postman** → QA tools basics  
+
+## 🎯 Future Goals
+- **Advanced Test Automation** → Selenium, Playwright  
+- **API Testing & SQL** → Learn to validate backend data  
+- **Backend Development** → Java & Spring basics  
+
+---
+
+## 📫 Connect with Me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/wadha-algarni/">
@@ -54,18 +66,4 @@
 
 ---
 
-## 🌱 Current Learning Focus
-- **Java** → Core concepts & OOP  
-- **JavaScript** → Strengthening foundations for web & automation  
-- **Manual Testing & Test Case Writing**  
-- **Jira & Postman** → Tools for QA process  
-
-## 🎯 Future Goals
-- **Advanced Test Automation** → Selenium, Playwright  
-- **API Testing & SQL** → Learn to validate backend data  
-- **Backend Development** → Java & Spring basics  
-- **Cloud & DevOps** → AWS, Docker, CI/CD basics  
-
----
-
-✨ *Building my foundations in Software Engineering and QA, step by step, to grow as a skilled professional and contribute to my country’s digital transformation.* 🚀
+✨ *Building my foundation in Software Engineering and QA, step by step, to grow as a skilled professional and contribute to my country’s digital transformation.* 🚀
