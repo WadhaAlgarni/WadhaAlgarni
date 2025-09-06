@@ -1,4 +1,4 @@
-# Hi there, I'm Wadha Al-Qarni! 👋  
+# Hi there, I'm Wadha Al-Garni! 👋  
 
 🎓 Software Engineering Graduate from the University of Jeddah  
 💻 Passionate about **Software Engineering, Software Testing, and Continuous Growth**  
